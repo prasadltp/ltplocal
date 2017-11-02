@@ -1,6 +1,6 @@
 ---
 title: Running Scared – Why the Bank of the Future Is Not a Bank
-date: 2016-02-11 00:00:00 Z
+date: 2017-11-01 00:00:00 Z
 tags:
 - US
 - Europe
