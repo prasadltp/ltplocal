@@ -1,12 +1,13 @@
 ---
+title: Sixth post
+date: 2016-02-06 00:00:00 Z
+categories:
+- education
+- writing
 layout: post
-title:  "Sixth post"
-date:   2016-02-06
-categories: education writing
-
-# Author.
 author: Airraya Group
 ---
+
 ![picture](https://placehold.it/250x150)
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ultrices porta ultrices. Nulla gravida commodo aliquet. Quisque tincidunt enim quis odio vestibulum, et luctus ipsum lacinia. Cras malesuada sit amet erat vitae porttitor. Duis vitae mollis eros. Vestibulum eget tortor sodales, ullamcorper odio ac, tincidunt felis. Nunc interdum, mauris vitae ornare bibendum, risus libero aliquam ex, cursus feugiat mi libero in nulla. Nullam vel pulvinar ante. Vivamus vitae est aliquet, porttitor eros ut, facilisis erat. Sed malesuada nibh odio, at egestas libero commodo vitae. Integer laoreet lorem ac iaculis fermentum.
 Praesent sodales viverra purus non semper. Maecenas eu convallis neque. Integer velit nunc, facilisis vel nisi in, semper pretium lorem. <!-- more -->
