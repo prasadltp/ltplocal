@@ -69,8 +69,8 @@ a:focus, a:hover {
     height: 35px;
     width: 75px;
     float: right;
-    color: #fff;
-    border: 1px solid #fff;
+    color: #333;
+    border: 1px solid #000;
 }
 .btn-default.sciblog:hover {
     color: #0089FF;
