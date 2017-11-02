@@ -9,9 +9,9 @@ collections:
     title: Uploads
     output: true
 email: airrayagroup@gmail.com
-description: ''
+description: 
 baseurl: "/sciblog"
-url: ''
+url: 
 author: AIRRAYA
 gems:
 - jekyll-paginate
