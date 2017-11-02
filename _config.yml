@@ -8,15 +8,12 @@ collections:
   uploads:
     title: Uploads
     output: true
-email: airrayagroup@gmail.com
+email: prasad@letstalkpayments.com
 description: 
 baseurl: ''
 url: 
-author: AIRRAYA
-gems:
-- jekyll-paginate
+author: LTP
+gems: 
 markdown: kramdown
-paginate: 5
-paginate_path: page:num/
 comments: true
 excerpt_separator: "<!-- more -->"
