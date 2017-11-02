@@ -1,5 +1,5 @@
 ---
-title: Sciblog
+title: LTP
 timezone: UTC
 collections:
   posts:
@@ -10,7 +10,7 @@ collections:
     output: true
 email: airrayagroup@gmail.com
 description: 
-baseurl: "/sciblog"
+baseurl: ''
 url: 
 author: AIRRAYA
 gems:
