@@ -7,6 +7,8 @@ tags:
 - US
 ---
 
+![Robo-400x220.png](/uploads/Robo-400x220.png)
+
 The term ‘robo-advisor’ refers to online investment services that deliver algorithmically derived financial advice. Robo-advisors typically provide their clients with one or more of the following features:
 
 * Formulaic goal-based advice,
