@@ -5,7 +5,7 @@ date: 2017-11-03 10:12:00 Z
 author: Kumar Abhishek
 ---
 
-![Cover Image.png](/uploads/Cover%20Image.png)
+![ID21-400x220.png](/uploads/ID21-400x220.png)
 
 The world is getting smarter and the consumers are becoming increasingly impatient, especially in today’s digital age. With technology innovations happening every day, customers are looking for services which require less time and minimal effort on their part. In this technologically advanced era where users can perform and manage their daily tasks with just a few clicks, visiting branch offices for opening a bank account seems unnecessary. <!-- more -->
 
