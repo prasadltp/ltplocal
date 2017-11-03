@@ -19,7 +19,7 @@ The term ‘robo-advisor’ refers to online investment services that deliver al
 
 * Index exchange-traded fund (ETF) portfolio construction.
 
-The commoditization of these features has made it nearly impossible for robo-advisors to differentiate themselves from their competitors.
+The commoditization of these features has made it nearly impossible for robo-advisors to differentiate themselves from their competitors. <!-- more -->
 
 Predictably, robo-advisors have begun a race to zero, as lower fees are the only differentiator readily understood by the majority of clients. The winners of this race will be the ‘Big Four’ major fund companies – Vanguard, Charles Schwab, Blackrock, and Fidelity. Their scale, brand recognition, and ownership of funds will allow them to waive management fees, cross-sell services, and reduce fund fees.
 
