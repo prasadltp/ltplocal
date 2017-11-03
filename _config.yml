@@ -10,7 +10,7 @@ collections:
     output: true
 email: prasad@letstalkpayments.com
 description: 
-baseurl: ''
+baseurl: 
 url: 
 author: LTP
 gems:
