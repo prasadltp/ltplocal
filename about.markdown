@@ -1,6 +1,7 @@
 ---
 title: About
 date: 2017-11-06 02:37:00 Z
+permalink: "/about.html"
 ---
 
 They say, “LTP is defining The New Global FinTech.”
